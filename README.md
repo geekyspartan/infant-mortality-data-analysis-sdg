@@ -12,7 +12,7 @@ Methods Used:
 3. Similary Search and Clustering to find the similar pregncnecy cases happened in the pas
 4. Machine Learning to evalute the risk of new infant death
 
-For complete details refer [Report]()
+For complete details refer [Report](https://github.com/geekyspartan/BigDataSDG3/blob/master/Project%20Report.pdf)
 
 ### Team
 [Renu Rani](https://github.com/techiepanda)
