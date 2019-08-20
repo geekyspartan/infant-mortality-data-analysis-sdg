@@ -15,10 +15,14 @@ Methods Used:
 For complete details refer [Report](https://github.com/geekyspartan/BigDataSDG3/blob/master/Project%20Report.pdf)
 
 ### Team
-[Renu Rani](https://github.com/techiepanda)
-
 [Anurag Arora ](https://github.com/geekyspartan)
 
 [Keshav Gupta](https://github.com/keshav11)
 
+[Renu Rani](https://github.com/techiepanda)
+
 [Shayan Ray](https://github.com/shayanray)
+
+
+
+
